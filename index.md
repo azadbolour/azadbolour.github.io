@@ -58,8 +58,6 @@ Designed and built a new generation of the
 SeatAdvisor REST API. Upgraded of SeatAdvisor's code and tool base to facilitate
 automated testing and continuous integration.
 
-- <span style="font-size: 25px">MyBuys, Inc. 
-
 - <span style="font-size: 25px; color: #009FFF">MyBuys, Inc.</span>
   <span style="font-size: 25px">
 Architected and led the development of a consumer-merchandise
