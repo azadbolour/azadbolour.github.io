@@ -29,7 +29,7 @@ and help maximize the benefits of your software investment.
 
   - <span style="font-size: 25px">minimizing ceremony 
 
-  - <span style="font-size: 25px"> being in continuous direct and informal comminication with all of your stake holders
+  - <span style="font-size: 25px"> being in continuous direct and informal communication with all of your stake holders
 
   - <span style="font-size: 25px">learning by prototyping small selected parts of the system 
 
