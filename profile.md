@@ -1,24 +1,21 @@
 ---
-title: Bolour Computing
 ---
 
 # Azad Bolour - Software Consultant
 
 Principal at Bolour Computing 
 
-azadbolour at bolour.com
-
-## Summary
-
 Independent software consultant since 1987. Architect, team lead, developer.
 Expertise in the Java and the JVM ecosystem. Recent experience in Scala,
 Haskell, React, Cloud Foundry.
+
+azadbolour at bolour.com
 
 [web site](http://www.bolour.com/)
 
 ## Professional Interests
 
-Hands-on technical leadership in a tightly-knit software development team.
+Hands-on technical leadership in a tight-knit software development team.
 Contribution to all aspects of the development process, including product
 definition, system design and construction, and the development process itself.
 Preference for modern functional programming langauges like Scala. Preference
@@ -28,7 +25,7 @@ for a low ceremony self-organizing team cuture.
 
 ### Independent Software Consultant - Bolour Computing - 1987 - Present
 
-Please see individual experience items below for a sampling of clients. 
+Please see individual items below for a sampling of my clients. 
 
 #### Senior Software Consultant - GE Digital - Jun 2015 - Apr 2016 
 
