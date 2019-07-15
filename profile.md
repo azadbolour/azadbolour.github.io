@@ -27,6 +27,14 @@ for a low ceremony self-organizing team cuture.
 
 Please see individual items below for a sampling of my clients. 
 
+#### Scala Consultant - Rally Health
+
+Under contract with Artima, Inc. Spearheaded the implementation of an
+authorization microservice for a family of Rally's services, in Scala, using
+Play and MongoDB. The authorization service allows security personnel to manage
+the capabilities of different roles in the organization to access the functions
+and the data of different services.
+
 #### Senior Software Consultant - GE Digital - Jun 2015 - Apr 2016 
 
 Designed and implemented a deployer for applications composed of an evolving set

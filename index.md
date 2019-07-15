@@ -22,7 +22,16 @@ We build software by using these practices
 
 We have been in business since 1987, and have served a variety of clients over the years.
 
+You can view a sample of our work by visiting
+[our board game open source project](http://www.bolour.com/boardgame/).
+
 ## Recent Clients
+
+[Rally Health](https://www.rallyhealth.com/).
+
+Under contract with Artima, Inc. Spearheaded the implementation of an
+authorization microservice for a family of Rally's services, in Scala, using
+Play and MongoDB. 
 
 [GE Digital](http://www.ge.com/digital/)
 
@@ -38,7 +47,7 @@ processing system for social media data.
 [SeatAdvisor](href="https://www.seatadvisor.com)
 
 Designed and built a new generation of the
-SeatAdvisor REST API. Upgraded of SeatAdvisor's code and tool base to facilitate
+SeatAdvisor REST API. Upgraded SeatAdvisor's code and tool base to facilitate
 automated testing and continuous integration.
 
 [MyBuys](http://www.mybuys.com/)
