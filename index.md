@@ -27,7 +27,7 @@ You can view a sample of our work by visiting
 
 ## Recent Clients
 
-[Rally Health](https://www.rallyhealth.com/).
+[Rally Health](https://www.rallyhealth.com/)
 
 Under contract with Artima, Inc. Spearheaded the implementation of an
 authorization microservice for a family of Rally's services, in Scala, using
