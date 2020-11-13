@@ -26,7 +26,7 @@ To see a representative sample of our work, head on over to
 [the eagerwords game site](https://eagerwords.com), and test your 
 vocabulary recall against the program.
 
-_Eagerwords_ uses a Scala/Play/Postgresql server, and ReactJS client.
+_Eagerwords_ uses a Scala/Play/Postgresql server, and a ReactJS web client.
 It is [open-sourced on gihub](https://github.com/azadbolour/eagerwords.com) and
 deployed on AWS.
 
