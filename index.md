@@ -22,8 +22,13 @@ We build software by using these practices
 
 We have been in business since 1987, and have served a variety of clients over the years.
 
-You can view a sample of our work by visiting
-[our board game open source project](http://www.bolour.com/boardgame/).
+To see a representative sample of our work, head on over to 
+[the eagerwords game site](https://eagerwords.com), and test your 
+vocabulary recall against the machine.
+
+Eagerwords uses a Scala/Play/Postgresql server, and ReactJS client.
+It is [open-sourced on gihub](https://github.com/azadbolour/eagerwords.com) and
+deployed on AWS.
 
 ## Recent Clients
 
