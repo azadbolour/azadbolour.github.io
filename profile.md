@@ -19,7 +19,7 @@ Hands-on technical leadership in a tight-knit software development team.
 Contribution to all aspects of the development process, including product
 definition, system design and construction, and the development process itself.
 Preference for modern functional programming langauges like Scala. Preference
-for a low ceremony self-organizing team cuture.
+for a low ceremony self-organizing team culture.
 
 ## Experience
 
